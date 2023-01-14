@@ -1,4 +1,4 @@
-# Olá! Eu sou a Monique Wopereis 👋
+# Olá! Eu sou a Monique Wopereis 😊
 
 Eu tenho 30 anos, sou brasileira, moro em Portugal e estou realizando transição de carreira com o objetivo de atuar na área de **Desenvolvimento Backend**. Atualmente, estou me dedicando ao máximo nos **estudos** em busca da minha *primeira oportunidade* no mercado de trabalho 🚀.
 
