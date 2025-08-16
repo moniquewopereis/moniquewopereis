@@ -2,7 +2,7 @@
 
 Eu tenho 32 anos, sou brasileira, sou uma profissional formada em Economia com MBA em Finanças e Controladoria Empresarial, e atualmente em processo de transição de carreira para a área de tecnologia. Após anos atuando com dados, estratégia e visão analítica, decidi aprofundar meu conhecimento técnico e mergulhar no mundo da programação.
 
-Hoje, curso Tecnólogo em Análise e Desenvolvimento de Sistemas e participo de um bootcamp intensivo com foco em Java e Inteligência Artificial. Atualmente, estou me dedicando ao máximo nos **estudos** em busca da minha *primeira oportunidade* no mercado de trabalho 🚀.
+Hoje, curso Tecnólogo em Análise e Desenvolvimento de Sistemas e participo de um bootcamp com foco em Análise de Dados. Atualmente, estou me dedicando ao máximo nos **estudos** em busca da minha *primeira oportunidade* no mercado de trabalho da tecnologia 🚀.
 
 Nos meus tempos livres, gosto de assistir séries 🎥, ouvir músicas 🎧 e ler livros 📖.
 
